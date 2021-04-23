@@ -1,2 +1,2 @@
-# DoneWithIt
-Clone of DoneWithIt - Created while learning React-Native
+# Done With It
+Clone of DoneWithIt - created while learning React-Native
